@@ -1,0 +1,87 @@
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.exe
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.deps.json
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.runtimeconfig.json
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.pdb
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.AssemblyReference.cache
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form1.resources
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.GenerateResource.cache
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.AssemblyInfoInputs.cache
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.AssemblyInfo.cs
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.CoreCompileInputs.cache
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\refint\AnimalHospital.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.pdb
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.genruntimeconfig.cache
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\ref\AnimalHospital.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.CopyComplete
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form2.resources
+C:\Users\k99_1\OneDrive\바탕 화면\기러기\ㅆㅅ\새 폴더\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form3.resources
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.exe
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.deps.json
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.runtimeconfig.json
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.pdb
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.AssemblyReference.cache
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form1.resources
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form2.resources
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form3.resources
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.GenerateResource.cache
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.AssemblyInfoInputs.cache
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.AssemblyInfo.cs
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.CopyComplete
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\refint\AnimalHospital.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.pdb
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.genruntimeconfig.cache
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\ref\AnimalHospital.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\YUHAN\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.exe
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.deps.json
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.runtimeconfig.json
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\AnimalHospital.pdb
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.AssemblyReference.cache
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form1.resources
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form2.resources
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.Form3.resources
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.GenerateResource.cache
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.AssemblyInfoInputs.cache
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.AssemblyInfo.cs
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.CoreCompileInputs.cache
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.csproj.CopyComplete
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\refint\AnimalHospital.dll
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.pdb
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\AnimalHospital.genruntimeconfig.cache
+C:\Users\k99_1\OneDrive\바탕 화면\sln_GanZi\sln_GanZi\sln_GanZi\AnimalHospital\obj\Debug\net6.0-windows\ref\AnimalHospital.dll
